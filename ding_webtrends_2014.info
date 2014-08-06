@@ -5,3 +5,4 @@ version = "7.x-0.1"
 core = 7.x
 configure = admin/config/ding/webtrends_2014
 scripts[] = js/webtrends.min.js
+scripts[] = js/webtrends.2014.js
